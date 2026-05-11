@@ -7,3 +7,5 @@ Mono Repositório do Projeto
 - Back-end: 0%
 - Infraestrutura: 0%
 
+# Projeto desenvolvido para área turística marítima
+
